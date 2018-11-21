@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WPFTesting
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for WPFTestingReportPage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class WPFTestingReportPage : Page
     {
-        public MainWindow()
+        public WPFTestingReportPage()
         {
             InitializeComponent();
         }
